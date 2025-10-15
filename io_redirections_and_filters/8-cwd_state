@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "liste tous les fichiers, même les fichiers caches" >> ls_cwd_content
+ls -la > ls_cwd_content 
